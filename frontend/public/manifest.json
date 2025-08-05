@@ -1,0 +1,20 @@
+{
+  "name": "BYTE Wallet Tracker",
+  "short_name": "BYTE Tracker",
+  "description": "Track BYTE token and WETH transactions on Base chain",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "categories": ["finance", "productivity"],
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    }
+  ]
+}
